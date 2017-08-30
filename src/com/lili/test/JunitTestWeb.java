@@ -17,7 +17,7 @@ public class JunitTestWeb {
 	}
 	@Test
 	public void StrTestT() {
-		System.out.println("222");
+		System.out.println("2211");
 	}
 
 }
