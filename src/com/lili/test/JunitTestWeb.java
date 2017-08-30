@@ -15,5 +15,9 @@ public class JunitTestWeb {
 	public void StrTest() {
 		System.out.println("111");
 	}
+	@Test
+	public void StrTestT() {
+		System.out.println("222");
+	}
 
 }
