@@ -10,5 +10,10 @@ public class JunitTestWeb {
 	public void test() {
 		fail("Not yet implemented");
 	}
+	
+	@Test
+	public void StrTest() {
+		System.out.println("111");
+	}
 
 }
